@@ -6,7 +6,11 @@ public class First {
 
 	}
 	public void cmpname() {
-		System.out.println("TCS");
+		System.out.println();
+
+	}
+	private void empid() {
+		System.out.println("704595");
 
 	}
 	static public void main(String args[]) {
@@ -14,6 +18,7 @@ public class First {
 		First a=new First();
 		a.empname();
 		a.cmpname();
+		a.empid();
 	}
 			
 	}
