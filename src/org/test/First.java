@@ -1,14 +1,19 @@
 package org.test;
 
 public class First {
-	private void empname() {
+	public void empname() {
 		System.out.println("Saranya!");
+
+	}
+	public void cmpname() {
+		System.out.println("TCS");
 
 	}
 	static public void main(String args[]) {
 		System.out.println("Hello ");
 		First a=new First();
 		a.empname();
+		a.cmpname();
 	}
 			
 	}
