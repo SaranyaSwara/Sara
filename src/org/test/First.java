@@ -9,17 +9,16 @@ public class First {
 		System.out.println();
 
 	}
-	private void empid() {
-		System.out.println("704595");
-
-	}
+	
+	
 	static public void main(String args[]) {
 		System.out.println("Hello ");
 		First a=new First();
 		a.empname();
 		a.cmpname();
-		a.empid();
+		
 	}
 			
 	}
+
 
