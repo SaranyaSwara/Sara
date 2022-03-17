@@ -9,7 +9,7 @@ public class First {
 		System.out.println();
 
 	}
-	
+
 	
 	static public void main(String args[]) {
 		System.out.println("Hello ");
