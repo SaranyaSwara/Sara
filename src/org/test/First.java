@@ -2,11 +2,16 @@ package org.test;
 
 public class First {
 	public void empname() {
-		System.out.println("Saranya!");
+		System.out.println("rajjj!");
 
 	}
 	public void cmpname() {
 		System.out.println();
+		
+
+	}
+	private void email() {
+		System.out.println("Saran@1234");
 
 	}
 
